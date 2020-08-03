@@ -1,3 +1,6 @@
+# Hostingの時cacheが生成されるので
+*.cache
+
 # Logs
 logs
 *.log
